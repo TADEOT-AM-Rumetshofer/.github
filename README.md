@@ -1,1 +1,1 @@
-# .github
+# Organization .github page for the main view of the organization
